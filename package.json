@@ -21,10 +21,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.0.0",
-    "styled-components": "^6.0.0",
-    "@strapi/strapi-plugin-io" :"2.0.6",
-    "socket.io" : "4.8.1"
-    
+    "styled-components": "^6.0.0"
   },
   "devDependencies": {},
   "engines": {
